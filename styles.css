@@ -8,13 +8,12 @@
 .container {
     width: 100%;
     min-height: 100vh;
-
-    background: url(../Background/11.jpg);
+    background: linear-gradient(135deg, #96a9ff, #385cff);
     background-repeat: no-repeat;
     background-size: 100% 100%;
 
     /*
-    background: linear-gradient(135deg, #96a9ff, #385cff);
+    background: url(../Background/11.jpg);
     */
     padding: 10px;
     display: flex;
