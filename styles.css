@@ -8,14 +8,14 @@
 .container {
     width: 100%;
     min-height: 100vh;
-    background: rgb(2,0,36);
-    background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 100%);
+    /*background: rgb(2,0,36);
+    background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 100%);*/
     background-repeat: no-repeat;
     background-size: 100% 100%;
 
-    /*
+    
     background: url(../Background/11.jpg);
-    */
+    
     padding: 10px;
     display: flex;
     padding-bottom: 10vh;
